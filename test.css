@@ -1,0 +1,80 @@
+body{
+    background-image: url('moroccan-flower.png');
+}
+
+a {
+    color: white; font-weight: bold; font-size: 24px;
+}
+
+div {
+    background-color: #8E41D5;
+}
+
+p {
+    color: white; font-family: "Arial";
+}
+
+h3 {
+    color: #FFBC00; font-size: 40px;font-family: "Passion One"; margin-bottom: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0 px;
+}
+
+li {
+
+}
+
+#Header {
+    width: 500 px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+}
+
+#Header h1 {
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color: #FFBC00; 
+    font-weight: bold; 
+
+}
+
+#LeftNav {
+    border: solid 8px black;
+    width: 400px;
+    float:left;
+    text-align: center;
+    padding-bottom: 8 px;
+}
+
+#LeftNav img {
+
+}
+
+#LeftNav ul {
+
+
+}
+
+#LeftNav h3 {
+
+}
+
+#Content {
+    border: solid 8px black;
+    width: 700 px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15 px;
+}
+
+#Footer {
+    border: solid 8px black;
+    text-align: center;
+}
